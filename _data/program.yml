@@ -1,0 +1,32 @@
+legend:
+  title: Legend
+  categories:
+    - name: A category
+      color: blue-6
+    - name: Another category
+      color: red-6
+    - name: Yet another category
+      color: teal-6
+days:
+  - name: July 8
+    events:
+      - time: 9:00 to 10:00
+        title: TBA
+      # - time: 9:00 to 10:00
+      #   title: Simone Rubinacci
+      #   subtitle: "Identity-by-Descent and phasing methods for Genome-Wide Association Studies"
+
+  - name: July 9
+    events:
+      - time: 9:00 to 10:00
+        title: TBA
+
+  - name: July 10
+    events:
+      - time: 9:00 to 10:00
+        title: TBA
+
+  - name: July 11
+    events:
+      - time: 9:00 to 10:00
+        title: TBA

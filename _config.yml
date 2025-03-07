@@ -1,0 +1,26 @@
+title: FORGENOM II Summer School & Hackathon
+description: FORGENOM II Summer School & Hackathon
+baseurl: /
+url: https://algolab.github.io/pgbh2025
+
+permalink: pretty
+# theme: jekyll-nagymaros
+remote_theme: piazzai/jekyll-nagymaros@v3.3.1
+
+home: /
+copyright: FORGENOM II
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+sass:
+  sourcemap: never
