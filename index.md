@@ -7,7 +7,7 @@ description: July 8-14, Ischia, Italy
 
 Welcome to the first **FORGENOM II** Summer School and Hackathon. The event will be organized in the beautiful Ischia, Summer 2025.
 
-### PhD School on Modern Bioinformatics towards Pagenomics
+### PhD School on Modern Bioinformatics towards Pangenomics
 
 The school is for researchers interested in broad topics of Bioinformatics, 
 with a focus on Pangenomics and modern advances of in sequencing and data analysis.
