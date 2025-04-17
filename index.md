@@ -25,6 +25,9 @@ There will also be an hackathon on genomics, proteomics and bioinformatics to ge
 
 *More detailed topics will be available soon*
 
+### Registration
+Registrations are now open [here](https://app.formbricks.com/s/cm9l760pp6q6zw201zm8tjh7g).
+
 ![Forgenome Logo](assets/img/forgenome_logo.avif)
 ![EU Logo](assets/img/eu_logo.avif)
 
@@ -32,3 +35,7 @@ There will also be an hackathon on genomics, proteomics and bioinformatics to ge
 ![Comenius Logo](assets/img/comenius_logo.avif)
 ![EMBL Logo](assets/img/embl_logo.avif)
 ![UNIMIB Logo](assets/img/unimib_logo.avif)
+
+<sub>The Forgenom II project has received funding from the Horizon Europe program under grant agreement No. 101160008.</sub> 
+
+<sub>The school is a joint event with Pangaia --- Pangenome Graph Algorithms and Data Integration. The Pangaia project has received funding from the European Union’s Horizon 2020 Research and Innovation Staff Exchange programme under the Marie Skłodowska-Curie grant agreement No. 872539</sub>
