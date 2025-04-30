@@ -5,7 +5,7 @@ description: July 8-14 2025, Ischia, Italy
 
 <img class="img-fluid" src="assets/img/ischia1.png" alt="Ischia picture">
 
-Welcome to the 2025 Summer School and Hackathon. The event will be organized in the beautiful Ischia, Summer 2025.
+Welcome to the 2025 Summer School and Hackathon. The event will be organized in the beautiful Ischia, Summer 2025 at the [Hotel Continental Ischia](https://www.hotelcontinentalischia.it/en/).
 
 ### PhD School on Modern Bioinformatics towards Pangenomics
 
