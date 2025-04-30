@@ -7,6 +7,7 @@ groups:
         surname: Colonna
         affil: University of Tennessee Health Science Center, Menphis, TN, US
         website: "https://colonnalab.github.io/laboratory_WebPage/"
+        lectures: aaa
       - name: Erik
         surname: Garrison
         affil: University of Tennessee Health Science Center, Menphis, TN, US
@@ -28,7 +29,7 @@ groups:
         affil: University of Milano, Milano, IT
         website: "https://www.unimi.it/en/ugov/person/mauricio-soto"
 
-  - title: Workshop organizers
+  - title: School Directors
     columns: false
     members:
       # - name: Paola

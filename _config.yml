@@ -1,5 +1,5 @@
-title: FORGENOM II Summer School & Hackathon
-description: FORGENOM II Summer School & Hackathon
+title: Summer School & Hackathon
+description: Summer School & Hackathon 2025
 baseurl: /
 url: https://algolab.github.io/forgenom_summerschool2025/
 
@@ -8,7 +8,7 @@ permalink: pretty
 remote_theme: piazzai/jekyll-nagymaros@v3.3.1
 
 home: /
-copyright: FORGENOM II
+copyright: FORGENOM II & PANGAIA
 indexing: true
 
 exclude:
