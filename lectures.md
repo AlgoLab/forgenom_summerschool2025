@@ -7,25 +7,29 @@ navorder: 5
 *This list is not definitive.*
 
 ### Arun Isaac
+
 - Lecture: Reproducible research<br>
 
 ### Erik Garrison
+
 - TBA<br>
 
 ### Mauricio Soto Gomez
+
 - Lecture & Practical: An Introduction to Machine Learning Tools: Methods and Applications<br>
 <sub>The course introduces essential machine learning (ML) techniques and tools for data analysis. In this series of lectures, we explore both theoretical foundations and practical applications of ML approaches for processing, analyzing, and interpreting complex data. During practical sessions, graphic programming tools will be used to implement ML models on several examples. During practical sessions, graphic programming tools will be used to implement ML models on several examples.</sub>
 
-
 ### Benedict Paten
+
 - Lecture: Human Pangenome Alignments - working toward the second release of the human pangenome reference<br>
 <sub>I will review recent progress from within the Human Pangenome Reference Consortium, specifically the development of a complete, integrated human pangenome alignment of hundreds of individual human haplotypes. I will show tools and applications for using this resource. I will describe some novel data structures that we view as missing pieces of the pangenomics informatics ecosystem.</sub>
 
 ### Pjotr Prins
+
 - Lecture: Genetics in the age of pangenomics<br>
-- Practical: Guix and free software during the hackathon<br>
 
 ### Tobias Rausch
+
 - Lecture: Introduction to cancer genomics and its caveats<br>
 <sub>Cancer genomes contain a wide range of somatic variants – DNA differences between tumor cells and normal host cells. In addition, inherited germline variants may predispose to cancer. Researchers use DNA sequencing to discover somatic and germline variants, identify cancer driver mutations and infer clonal tumor architecture. In this lecture the trainer discusses the challenges of cancer genomics and the computational methods used to analyze cancer genomes.</sub>
 
@@ -35,9 +39,7 @@ navorder: 5
 - Lecture: The benefits of interrogating (cancer) genomes using long reads<br>
 <sub>Long-read sequencing of 1000 Genomes project samples yielded a 2- to 3-fold increase in detected germline structural variants (SVs) compared to short-read sequencing with improved sensitivity for smaller SVs (<1 kbp) and SVs in repetitive regions. In this lecture, the trainer discusses the benefits and challenges associated with long-read applications in population and cancer genomics and how long reads can help to interpret complex genomic rearrangements in a haplotype-specific manner that are inaccessible to short reads. We will also discuss benefits of long-read technologies for linking genetic with epigenetic information and the integration of SVs in pan-genome graphs.</sub>
 
-- Practical: SV analysis using short-reads<br>
-<sub>Setup: Participants use AWS cloud instances where the data and tools are pre-installed. Participants only need laptops with SSH client. This is the practical section for structural variant (SV) calling and CNV analysis using short-reads. By the end of this session you will be able to analyze whole-genome sequencing data for structural variants, apply specific commands for detecting SVs and CNVs and visualize them using R.</sub>
-
 ### Vincenza Colonna
+
 - Integrating Genetic Ancestry, Environmental Exposure and Health Equity<br>
 <sub>The BIG Initiative examines the relationship between genetics, environment, and health across a diverse Tennessee population. Analysis of over 13,000 genomes revealed remarkable diversity, with half having non-European or admixed ancestry. Using identity-by-descent analysis, we identified four main communities corresponding to continental ancestries and mapped these to neighborhood-level geographical data. Some subcommunities were overrepresented in areas with elevated environmental stressors, suggesting genetic relatedness serves as an indicator of shared environmental factors. The African-ancestry community exhibited higher rates of respiratory and dermatological conditions, while significant health differences were detected between subcommunities of the same ancestry group. This approach provides a framework for understanding health disparities that captures both ancestral population structure and environmental influences without relying on potentially biased reference populations.</sub>
