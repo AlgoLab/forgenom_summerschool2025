@@ -13,7 +13,13 @@ navorder: 5
 - TBA<br>
 
 ### Mauricio Soto Gomez
-- TBA<br>
+- Lecture & Practical: An Introduction to Machine Learning Tools: Methods and Applications<br>
+<sub>The course introduces essential machine learning (ML) techniques and tools for data analysis. In this series of lectures, we explore both theoretical foundations and practical applications of ML approaches for processing, analyzing, and interpreting complex data. During practical sessions, graphic programming tools will be used to implement ML models on several examples. During practical sessions, graphic programming tools will be used to implement ML models on several examples.</sub>
+
+
+### Benedict Paten
+- Lecture: Human Pangenome Alignments - working toward the second release of the human pangenome reference<br>
+<sub>I will review recent progress from within the Human Pangenome Reference Consortium, specifically the development of a complete, integrated human pangenome alignment of hundreds of individual human haplotypes. I will show tools and applications for using this resource. I will describe some novel data structures that we view as missing pieces of the pangenomics informatics ecosystem.</sub>
 
 ### Pjotr Prins
 - Lecture: Genetics in the age of pangenomics<br>

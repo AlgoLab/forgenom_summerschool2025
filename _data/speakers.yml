@@ -16,6 +16,10 @@ groups:
         surname: Isaac
         affil: University College London, London, UK
         website: "https://aruni.systemreboot.net"
+      - name: Benedict
+        surname: Paten
+        affil: University of California, Santa Cruz, CA, US
+        website: "https://cglgenomics.ucsc.edu"
       - name: Pjotr
         surname: Prins
         affil: University of Tennessee Health Science Center, Menphis, TN, US
