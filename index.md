@@ -29,7 +29,7 @@ There will also be an hackathon on genomics, proteomics and bioinformatics to ge
 *More detailed topics will be available soon*
 
 ### Registration
-Registrations are now open [here](https://app.formbricks.com/s/cm9l760pp6q6zw201zm8tjh7g).
+Registrations are now open [here](https://app.formbricks.com/s/cm9l760pp6q6zw201zm8tjh7g) until 11th May 12.00 AM CEST.
 
 ![Forgenome Logo](assets/img/forgenome_logo.avif)
 ![PANGAIA Logo](assets/img/pangaia_logo.png)
