@@ -31,6 +31,11 @@ There will also be an hackathon on genomics, proteomics and bioinformatics to ge
 ### Registration
 Registrations are now open [here](https://app.formbricks.com/s/cm9l760pp6q6zw201zm8tjh7g) until 16th May 12.00 AM CEST.
 
+### Contact
+
+For information, please contact gianluca.dellavedova@unimib.it and simone.ciccolella@unimib.it
+
+
 ![Forgenome Logo](assets/img/forgenome_logo.avif)
 ![PANGAIA Logo](assets/img/pangaia_logo.png)
 ![EU Logo](assets/img/eu_logo.avif)
