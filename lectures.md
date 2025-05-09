@@ -19,6 +19,10 @@ navorder: 5
 - Lecture & Practical: An Introduction to Machine Learning Tools: Methods and Applications<br>
 <sub>The course introduces essential machine learning (ML) techniques and tools for data analysis. In this series of lectures, we explore both theoretical foundations and practical applications of ML approaches for processing, analyzing, and interpreting complex data. During practical sessions, graphic programming tools will be used to implement ML models on several examples. During practical sessions, graphic programming tools will be used to implement ML models on several examples.</sub>
 
+### Marcel Kucharík
+
+- TBA<br>
+
 ### Benedict Paten
 
 - Lecture: Human Pangenome Alignments - working toward the second release of the human pangenome reference<br>
@@ -38,6 +42,10 @@ navorder: 5
 
 - Lecture: The benefits of interrogating (cancer) genomes using long reads<br>
 <sub>Long-read sequencing of 1000 Genomes project samples yielded a 2- to 3-fold increase in detected germline structural variants (SVs) compared to short-read sequencing with improved sensitivity for smaller SVs (<1 kbp) and SVs in repetitive regions. In this lecture, the trainer discusses the benefits and challenges associated with long-read applications in population and cancer genomics and how long reads can help to interpret complex genomic rearrangements in a haplotype-specific manner that are inaccessible to short reads. We will also discuss benefits of long-read technologies for linking genetic with epigenetic information and the integration of SVs in pan-genome graphs.</sub>
+
+### Tomáš Szemes
+
+- TBA<br>
 
 ### Vincenza Colonna
 

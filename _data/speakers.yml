@@ -7,7 +7,6 @@ groups:
         surname: Colonna
         affil: University of Tennessee Health Science Center, Menphis, TN, US
         website: "https://colonnalab.github.io/laboratory_WebPage/"
-        lectures: aaa
       - name: Erik
         surname: Garrison
         affil: University of Tennessee Health Science Center, Menphis, TN, US
@@ -16,6 +15,10 @@ groups:
         surname: Isaac
         affil: University College London, London, UK
         website: "https://aruni.systemreboot.net"
+      - name: Marcel
+        surname: Kucharík
+        website: "https://geneton.sk/en/team/mgr-marcel-kucharik-dr-techn/"
+        affil: Geneton s.r.o., Comenius Universivity in Bratislava, Slovakia
       - name: Benedict
         surname: Paten
         affil: University of California, Santa Cruz, CA, US
@@ -32,7 +35,7 @@ groups:
         surname: Soto Gomez
         affil: University of Milano, Milano, IT
         website: "https://www.unimi.it/en/ugov/person/mauricio-soto"
-      - name: Tomáš 
+      - name: Tomáš
         surname: Szemes
         affil: Geneton s.r.o., Comenius University in Bratislava, Slovakia
         website: "https://geneton.sk/tim/szemes/"
