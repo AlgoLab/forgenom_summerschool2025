@@ -5,11 +5,11 @@ groups:
     members:
       - name: Vincenza
         surname: Colonna
-        affil: University of Tennessee Health Science Center, Menphis, TN, US
+        affil: University of Tennessee Health Science Center, Memphis, TN, US
         website: "https://colonnalab.github.io/laboratory_WebPage/"
       - name: Erik
         surname: Garrison
-        affil: University of Tennessee Health Science Center, Menphis, TN, US
+        affil: University of Tennessee Health Science Center, Memphis, TN, US
         website: "http://www.hypervolu.me/~erik/erik_garrison.html"
       - name: Arun
         surname: Isaac
@@ -25,7 +25,7 @@ groups:
         website: "https://cglgenomics.ucsc.edu"
       - name: Pjotr
         surname: Prins
-        affil: University of Tennessee Health Science Center, Menphis, TN, US
+        affil: University of Tennessee Health Science Center, Memphis, TN, US
         website: "https://thebird.nl"
       - name: Tobias
         surname: Rausch
