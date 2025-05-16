@@ -6,11 +6,11 @@ navorder: 5
 ---
 *This list is not definitive.*
 
-### Arun Isaac
-
-- Lecture: Reproducible research<br>
-
 ### Erik Garrison
+
+- TBA<br>
+
+### Juraj Gazdarica
 
 - TBA<br>
 
