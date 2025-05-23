@@ -29,7 +29,7 @@ There will also be an hackathon on genomics, proteomics and bioinformatics to ge
 *More detailed topics will be available soon*
 
 ### Registration
-Registrations are now open [here](https://app.formbricks.com/s/cm9l760pp6q6zw201zm8tjh7g) until 16th May 12.00 AM CEST.
+Registrations are now closed.
 
 ### Contact
 

@@ -1,6 +1,6 @@
 alerts:
-  - title: "Registrations are open until 16th May 12.00 AM CEST!"
-    color: green-1
+  # - title: "Registrations are open until 16th May 12.00 AM CEST!"
+  #   color: green-1
 #   - text: You can have multiple alerts, with different colors. This is the default.
 buttons:
 #   - text: GitHub
