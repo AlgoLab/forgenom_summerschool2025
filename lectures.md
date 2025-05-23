@@ -10,10 +10,6 @@ navorder: 5
 
 - TBA<br>
 
-### Juraj Gazdarica
-
-- TBA<br>
-
 ### Mauricio Soto Gomez
 
 - Lecture & Practical: An Introduction to Machine Learning Tools: Methods and Applications<br>
