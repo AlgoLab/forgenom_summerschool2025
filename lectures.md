@@ -17,7 +17,9 @@ navorder: 5
 
 ### Marcel Kucharík
 
-- TBA<br>
+- Lecture & Practical: Short tandem repeats genotyping (and their part in Pangenomes)<br>
+<sub> In this lecture, we will familiarize ourselves with short tandem repeats (STRs) and their significance in diagnostics and personal identification. We will introduce several STR detection tools and describe the working principles of two of them, while diving deep into one in particular. In the practical portion of the lecture, participants will work in groups to download the required data and STR detection tools, install them, and utilize them to detect STRs for a few select loci. In the end, we will discuss the findings, any inconsistencies, and the performance of different tools.</sub>
+
 
 ### Benedict Paten
 
