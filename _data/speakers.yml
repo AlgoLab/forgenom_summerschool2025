@@ -11,7 +11,10 @@ groups:
         surname: Garrison
         affil: University of Tennessee Health Science Center, Memphis, TN, US
         website: "http://www.hypervolu.me/~erik/erik_garrison.html"
-        affil: Geneton s.r.o., Comenius Universivity in Bratislava, Slovakia
+      - name: Andrea
+        surname: Guarracino
+        affil: University of Tennessee Health Science Center, Memphis, TN, US
+        website: "https://andreaguarracino.github.io"
       - name: Marcel
         surname: Kucharík
         website: "https://geneton.sk/en/team/mgr-marcel-kucharik-dr-techn/"
