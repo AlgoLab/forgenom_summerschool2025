@@ -6,25 +6,28 @@ navorder: 5
 ---
 *This list is not definitive.*
 
-### Erik Garrison
+### Andrea Guarracino
 
 - TBA<br>
 
-### Mauricio Soto Gomez
+### Benedict Paten
 
-- Lecture & Practical: An Introduction to Machine Learning Tools: Methods and Applications<br>
-<sub>The course introduces essential machine learning (ML) techniques and tools for data analysis. In this series of lectures, we explore both theoretical foundations and practical applications of ML approaches for processing, analyzing, and interpreting complex data. During practical sessions, graphic programming tools will be used to implement ML models on several examples. During practical sessions, graphic programming tools will be used to implement ML models on several examples.</sub>
+- Lecture: Human Pangenome Alignments - working toward the second release of the human pangenome reference<br>
+<sub>I will review recent progress from within the Human Pangenome Reference Consortium, specifically the development of a complete, integrated human pangenome alignment of hundreds of individual human haplotypes. I will show tools and applications for using this resource. I will describe some novel data structures that we view as missing pieces of the pangenomics informatics ecosystem.</sub>
+
+### Erik Garrison
+
+- TBA<br>
 
 ### Marcel Kucharík
 
 - Lecture & Practical: Short tandem repeats genotyping (and their part in Pangenomes)<br>
 <sub> In this lecture, we will familiarize ourselves with short tandem repeats (STRs) and their significance in diagnostics and personal identification. We will introduce several STR detection tools and describe the working principles of two of them, while diving deep into one in particular. In the practical portion of the lecture, participants will work in groups to download the required data and STR detection tools, install them, and utilize them to detect STRs for a few select loci. In the end, we will discuss the findings, any inconsistencies, and the performance of different tools.</sub>
 
+### Mauricio Soto Gomez
 
-### Benedict Paten
-
-- Lecture: Human Pangenome Alignments - working toward the second release of the human pangenome reference<br>
-<sub>I will review recent progress from within the Human Pangenome Reference Consortium, specifically the development of a complete, integrated human pangenome alignment of hundreds of individual human haplotypes. I will show tools and applications for using this resource. I will describe some novel data structures that we view as missing pieces of the pangenomics informatics ecosystem.</sub>
+- Lecture & Practical: An Introduction to Machine Learning Tools: Methods and Applications<br>
+<sub>The course introduces essential machine learning (ML) techniques and tools for data analysis. In this series of lectures, we explore both theoretical foundations and practical applications of ML approaches for processing, analyzing, and interpreting complex data. During practical sessions, graphic programming tools will be used to implement ML models on several examples. During practical sessions, graphic programming tools will be used to implement ML models on several examples.</sub>
 
 ### Pjotr Prins
 
