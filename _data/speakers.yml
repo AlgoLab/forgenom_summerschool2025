@@ -1,5 +1,5 @@
 groups:
-  - title: Confirmed Speakers
+  - title: Lecturers
     sort: true
     columns: false
     members:
@@ -11,14 +11,6 @@ groups:
         surname: Garrison
         affil: University of Tennessee Health Science Center, Memphis, TN, US
         website: "http://www.hypervolu.me/~erik/erik_garrison.html"
-      - name: Andrea
-        surname: Guarracino
-        affil: University of Tennessee Health Science Center, Memphis, TN, US
-        website: "https://andreaguarracino.github.io"
-      - name: Marcel
-        surname: Kucharík
-        website: "https://geneton.sk/en/team/mgr-marcel-kucharik-dr-techn/"
-        affil: Geneton s.r.o., Comenius Universivity in Bratislava, Slovakia
       - name: Benedict
         surname: Paten
         affil: University of California, Santa Cruz, CA, US
@@ -39,6 +31,31 @@ groups:
         surname: Szemes
         affil: Geneton s.r.o., Comenius University in Bratislava, Slovakia
         website: "https://geneton.sk/tim/szemes/"
+
+  - title: Hackathon Instructors
+    sort: true
+    columns: false
+    members:
+      - name: Erik
+        surname: Garrison
+        affil: University of Tennessee Health Science Center, Memphis, TN, US
+        website: "http://www.hypervolu.me/~erik/erik_garrison.html"
+      - name: Andrea
+        surname: Guarracino
+        affil: University of Tennessee Health Science Center, Memphis, TN, US
+        website: "https://andreaguarracino.github.io"
+      - name: Marcel
+        surname: Kucharík
+        website: "https://geneton.sk/en/team/mgr-marcel-kucharik-dr-techn/"
+        affil: Geneton s.r.o., Comenius Universivity in Bratislava, Slovakia
+      - name: Pjotr
+        surname: Prins
+        affil: University of Tennessee Health Science Center, Memphis, TN, US
+        website: "https://thebird.nl"
+      - name: Mauricio
+        surname: Soto Gomez
+        affil: University of Milano, Milano, IT
+        website: "https://www.unimi.it/en/ugov/person/mauricio-soto"
 
   # - title: School Directors
   #   columns: false
