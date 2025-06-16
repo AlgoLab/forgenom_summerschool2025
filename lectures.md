@@ -8,7 +8,8 @@ navorder: 5
 
 ### Andrea Guarracino
 
-- TBA<br>
+- Hackathon:<br>
+<sub>The exponential growth of genomic data demands new compression solutions. This hackathon project will explore adapting the Assembled Genomes Compressor (AGC, https://github.com/refresh-bio/agc) to compress raw sequencing reads—a different application beyond its original design for assembled genomes—for potential integration with the Rust-based GBAM framework (https://github.com/NickRoz1/gbam). Students will benchmark AGC's compression ratios and speed on raw read datasets, prototype a proof-of-concept integration between the C++ AGC library and Rust GBAM, and gain hands-on experience with bioinformatics tool development and cross-language integration. The project accommodates diverse skill levels: beginners can focus on benchmarking and data analysis using command-line tools, while advanced students can tackle the C++/Rust interoperability challenge. Deliverables include performance benchmarks, a report on feasibility, and potentially a minimal working integration that students can continue developing post-hackathon on their own systems.</sub>
 
 ### Benedict Paten
 
