@@ -11,83 +11,80 @@ days:
   - name: July 8
     events:
       - time: 9:00 to 10:30
-        title: TBA
+        title: Mauricio Soto Gomez
         category: Lecture
       - time: 10:30 to 11:00
         title: Coffee Break
       - time: 11:00 to 12:30
-        title: TBA
+        title: Erik Garrison
         category: Lecture
       - time: 12:30 to 14:00
         title: Lunch
       - time: 14:00 to 15:30
-        title: TBA
+        title: Benedict Paten
         category: Lecture
       - time: 15:30 to 16:00
         title: Coffee Break
       - time: 16:00 to 17:30
-        title: TBA
+        title: Vincenza Colonna
         category: Lecture
-      # - time: 9:00 to 10:00
-      #   title: Simone Rubinacci
-      #   subtitle: "Identity-by-Descent and phasing methods for Genome-Wide Association Studies"
 
   - name: July 9
     events:
       - time: 9:00 to 10:30
-        title: TBA
+        title: Mauricio Soto Gomez
         category: Lecture
       - time: 10:30 to 11:00
         title: Coffee Break
       - time: 11:00 to 12:30
-        title: TBA
+        title: Erik Garrison
         category: Lecture
       - time: 12:30 to 14:00
         title: Lunch
       - time: 14:00 to 15:30
-        title: TBA
+        title: Mauricio Soto Gomez
         category: Lecture
       - time: 15:30 to 16:00
         title: Coffee Break
       - time: 16:00 to 17:30
-        title: TBA
+        title: Vincenza Colonna
         category: Lecture
 
   - name: July 10
     events:
       - time: 9:00 to 10:30
-        title: TBA
+        title: Tobias Rausch
         category: Lecture
       - time: 10:30 to 11:00
         title: Coffee Break
       - time: 11:00 to 12:30
-        title: TBA
+        title: Tobias Rausch
         category: Lecture
       - time: 12:30 to 14:00
         title: Lunch
       - time: 14:00 to 15:30
-        title: TBA
+        title: Tobias Rausch
         category: Lecture
       - time: 15:30 to 16:00
         title: Coffee Break
       - time: 16:00 to 17:30
-        title: TBA
+        title: Tobias Rausch
         category: Lecture
 
   - name: July 11
     events:
       - time: 9:00 to 10:30
-        title: TBA
+        title: Mauricio Soto Gomez
         category: Lecture
       - time: 10:30 to 11:00
         title: Coffee Break
       - time: 11:00 to 12:30
-        title: TBA
+        title: Benedict Paten
         category: Lecture
       - time: 12:30 to 14:00
         title: Lunch
       - time: 14:00 to 15:30
-        title: TBA
+        title: Tomáš Szemes
         category: Lecture
       - time: 15:30 to 16:00
         title: Coffee Break
