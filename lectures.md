@@ -30,10 +30,6 @@ navorder: 5
 - Lecture & Practical: An Introduction to Machine Learning Tools: Methods and Applications<br>
 <sub>The course introduces essential machine learning (ML) techniques and tools for data analysis. In this series of lectures, we explore both theoretical foundations and practical applications of ML approaches for processing, analyzing, and interpreting complex data. During practical sessions, graphic programming tools will be used to implement ML models on several examples. During practical sessions, graphic programming tools will be used to implement ML models on several examples.</sub>
 
-### Pjotr Prins
-
-- Lecture: Genetics in the age of pangenomics<br>
-
 ### Tobias Rausch
 
 - Lecture: Introduction to cancer genomics and its caveats<br>
