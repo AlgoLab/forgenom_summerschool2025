@@ -1,74 +1,52 @@
 legend:
   title: Legend
   categories:
-    - name: Practical
+    - name: Group 1
       color: blue-6
-    - name: Another category
+    - name: Group 2
       color: red-6
-    - name: Yet another category
+    - name: Group 3
       color: teal-6
 days:
   - name: July 12
     events:
-      - time: 9:00 to 10:30
-        title: TBA
-        category: Practical
+      - time: 9:00 to 17:30
+        title: Short tandem repeats (STR) genotyping
+        category: Group 1
+      - time: 9:00 to 17:30
+        title: Assembled Genomes Compressor (AGC) hacking
+        category: Group 2
       - time: 10:30 to 11:00
         title: Coffee Break
-      - time: 11:00 to 12:30
-        title: TBA
-        category: Practical
       - time: 12:30 to 14:00
         title: Lunch
-      - time: 14:00 to 15:30
-        title: TBA
-        category: Practical
       - time: 15:30 to 16:00
         title: Coffee Break
-      - time: 16:00 to 17:30
-        title: TBA
-        category: Practical
-      # - time: 9:00 to 10:00
-      #   title: Simone Rubinacci
-      #   subtitle: "Identity-by-Descent and phasing methods for Genome-Wide Association Studies"
+
   - name: July 13
     events:
-      - time: 9:00 to 10:30
-        title: TBA
-        category: Practical
+      - time: 9:00 to 17:30
+        title: Short tandem repeats (STR) genotyping
+        category: Group 1
+      - time: 9:00 to 17:30
+        title: Assembled Genomes Compressor (AGC) hacking
+        category: Group 2
       - time: 10:30 to 11:00
         title: Coffee Break
-      - time: 11:00 to 12:30
-        title: TBA
-        category: Practical
       - time: 12:30 to 14:00
         title: Lunch
-      - time: 14:00 to 15:30
-        title: TBA
-        category: Practical
       - time: 15:30 to 16:00
         title: Coffee Break
-      - time: 16:00 to 17:30
-        title: TBA
-        category: Practical
         
   - name: July 14
     events:
-      - time: 9:00 to 10:30
-        title: TBA
-        category: Practical
+      - time: 9:00 to 12:30
+        title: Short tandem repeats (STR) genotyping
+        category: Group 1
+      - time: 9:00 to 12:30
+        title: Assembled Genomes Compressor (AGC) hacking
+        category: Group 2
       - time: 10:30 to 11:00
         title: Coffee Break
-      - time: 11:00 to 12:30
-        title: TBA
-        category: Practical
       - time: 12:30 to 14:00
         title: Lunch
-      # - time: 14:00 to 15:30
-      #   title: TBA
-      #   category: Practical
-      # - time: 15:30 to 16:00
-      #   title: Coffee Break
-      # - time: 16:00 to 17:30
-      #   title: TBA
-      #   category: Practical
