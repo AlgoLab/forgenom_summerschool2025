@@ -15,10 +15,10 @@ groups:
         surname: Paten
         affil: University of California, Santa Cruz, CA, US
         website: "https://cglgenomics.ucsc.edu"
-      - name: Pjotr
-        surname: Prins
-        affil: University of Tennessee Health Science Center, Memphis, TN, US
-        website: "https://thebird.nl"
+      # - name: Pjotr
+      #   surname: Prins
+      #   affil: University of Tennessee Health Science Center, Memphis, TN, US
+      #   website: "https://thebird.nl"
       - name: Tobias
         surname: Rausch
         affil: European Molecular Biology Laboratory (EMBL), Heidelberg, DE
@@ -48,10 +48,10 @@ groups:
         surname: Kucharík
         website: "https://geneton.sk/en/team/mgr-marcel-kucharik-dr-techn/"
         affil: Geneton s.r.o., Comenius Universivity in Bratislava, Slovakia
-      - name: Pjotr
-        surname: Prins
-        affil: University of Tennessee Health Science Center, Memphis, TN, US
-        website: "https://thebird.nl"
+      # - name: Pjotr
+      #   surname: Prins
+      #   affil: University of Tennessee Health Science Center, Memphis, TN, US
+      #   website: "https://thebird.nl"
       - name: Mauricio
         surname: Soto Gomez
         affil: University of Milano, Milano, IT
