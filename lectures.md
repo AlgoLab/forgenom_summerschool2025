@@ -4,8 +4,6 @@ title: Lectures
 description: List of Lectures
 navorder: 5
 ---
-*This list is not definitive.*
-
 ### Andrea Guarracino
 
 - Hackathon:<br>
@@ -18,7 +16,8 @@ navorder: 5
 
 ### Erik Garrison
 
-- TBA<br>
+- Building Pangenome Graphs: From Variation Theory to Human Genome Complexity & Pangenome Applications: Evolutionary Insights and Scaling to Population Genomics<br>
+<sub>Pangenomics has evolved from counting genes in bacterial populations to building comprehensive variation graphs that represent all types of variation across many genomes. I'll present methods for constructing these graphs through genome alignment, focusing on the PanGenome Graph Builder (PGGB) approach that creates unbiased representations where any genome can serve as reference. Using the Human Pangenome Reference Consortium data, we've uncovered hidden structural complexity including the evolution of amylase copy number variation linked to agricultural transitions and recombination between acrocentric chromosomes that explains Robertsonian translocations. However, building pangenomes for hundreds of genomes faces quadratic scaling challenges. I'll introduce implicit pangenome graphs (IMPG) that maintain alignment relationships without materializing the full graph structure, enabling efficient coordinate translation and subgraph extraction. These developments allow us to move from chromosome-level to truly genome-wide pangenome analysis while maintaining computational tractability for population-scale studies.</sub>
 
 ### Marcel Kucharík
 
