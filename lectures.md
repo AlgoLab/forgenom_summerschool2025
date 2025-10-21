@@ -48,3 +48,7 @@ navorder: 5
 
 - Integrating Genetic Ancestry, Environmental Exposure and Health Equity<br>
 <sub>The BIG Initiative examines the relationship between genetics, environment, and health across a diverse Tennessee population. Analysis of over 13,000 genomes revealed remarkable diversity, with half having non-European or admixed ancestry. Using identity-by-descent analysis, we identified four main communities corresponding to continental ancestries and mapped these to neighborhood-level geographical data. Some subcommunities were overrepresented in areas with elevated environmental stressors, suggesting genetic relatedness serves as an indicator of shared environmental factors. The African-ancestry community exhibited higher rates of respiratory and dermatological conditions, while significant health differences were detected between subcommunities of the same ancestry group. This approach provides a framework for understanding health disparities that captures both ancestral population structure and environmental influences without relying on potentially biased reference populations.</sub>
+
+### Simone Ciccolella
+
+- Reproducibility of results. What? Why? How?

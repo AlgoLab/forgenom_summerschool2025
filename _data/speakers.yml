@@ -15,10 +15,6 @@ groups:
         surname: Paten
         affil: University of California, Santa Cruz, CA, US
         website: "https://cglgenomics.ucsc.edu"
-      # - name: Pjotr
-      #   surname: Prins
-      #   affil: University of Tennessee Health Science Center, Memphis, TN, US
-      #   website: "https://thebird.nl"
       - name: Tobias
         surname: Rausch
         affil: European Molecular Biology Laboratory (EMBL), Heidelberg, DE
@@ -31,6 +27,11 @@ groups:
         surname: Szemes
         affil: Geneton s.r.o., Comenius University in Bratislava, Slovakia
         website: "https://geneton.sk/tim/szemes/"
+      - name: Simone
+        surname: Ciccolella
+        # email: simone.ciccolella@unimib.it
+        affil: University of Milano-Bicocca, Milan, Italy
+        website: "https://sciccolella.github.io"
 
   - title: Hackathon Instructors
     sort: true
@@ -48,36 +49,21 @@ groups:
         surname: Kucharík
         website: "https://geneton.sk/en/team/mgr-marcel-kucharik-dr-techn/"
         affil: Geneton s.r.o., Comenius Universivity in Bratislava, Slovakia
-      # - name: Pjotr
-      #   surname: Prins
-      #   affil: University of Tennessee Health Science Center, Memphis, TN, US
-      #   website: "https://thebird.nl"
       - name: Mauricio
         surname: Soto Gomez
         affil: University of Milano, Milano, IT
         website: "https://www.unimi.it/en/ugov/person/mauricio-soto"
-
-  # - title: School Directors
-  #   columns: false
-  #   members:
-  #     # - name: Paola
-  #     #   surname: Bonizzoni
-  #     #   # email: paola.bonizzoni@unimib.it
-  #     #   affil: University of Milano-Bicocca, Italy
-  #     - name: Simone
-  #       surname: Cicollella
-  #       # email: simone.ciccolella@unimib.it
-  #       affil: University of Milano-Bicocca, Milan, Italy
-  #     - name: Gianluca
-  #       surname: Della Vedova
-  #       # email: gianluca.dellavedova@unimib.it
-  #       affil: University of Milano-Bicocca, Milan, Italy
+      - name: Simone
+        surname: Ciccolella
+        # email: simone.ciccolella@unimib.it
+        affil: University of Milano-Bicocca, Milan, Italy
+        website: "https://sciccolella.github.io"
 
   - title: School Directors
     columns: false
     members:
       - name: Simone
-        surname: Cicollella
+        surname: Ciccolella
         # email: simone.ciccolella@unimib.it
         affil: University of Milano-Bicocca, Milan, Italy
       - name: Gianluca
